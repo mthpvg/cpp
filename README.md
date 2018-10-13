@@ -7,6 +7,6 @@
 ```bash
 git clone git@github.com:mthpvg/cpp.git
 cd cpp
-g++ main.cpp greetings.cpp -o hello.out
-./hello.out
+g++ main.cpp greetings.cpp -o main.out
+./main.out
 ```
